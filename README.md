@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @AkanshuDutt
-- 👀 I’m interested in Exploring New Technology
-- 🌱 I’m currently learning Web Devlopment 
-- 📫 How to reach me (duttakanshu@gmail.com/ +91-7534081839)
-- 😄 Pronouns: ...
+### 👋 Hi, I'm a Full Stack Developer
 
-<!---
-AkanshuDutt/AkanshuDutt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Skilled in**:  
+- MERN Stack (MongoDB, Express.js, React.js, Node.js)  
+- Java Full Stack Development  
+
+🎓 **Education**:  
+- Master's in Computer Applications (MCA)
+
+🌱 **Currently working on**: Scalable web applications and improving system design skills.  
+📫 **How to reach me**: You can contact me via GitHub or LinkedIn.  
+🚀 **Goal**: To build impactful, high-performance software solutions that solve real-world problems.
