@@ -4,7 +4,7 @@
 - MERN Stack (MongoDB, Express.js, React.js, Node.js)  
 - Java Full Stack Development  
 
-🎓 **Education**:  
+🎓 **Education**:      ............................
 - Master's in Computer Applications (MCA)
 
 🌱 **Currently working on**: Scalable web applications and improving system design skills.  
