@@ -1,63 +1,239 @@
-## 👋 Hi, I'm a Full Stack Developer  
+<!-- <p align="center">
+  <img src="https://github.com/SonuKumarPaswan/SonuKumarPaswan/blob/main/poster.jpg?raw=true" alt="DSA Banner" width="110%" height="240">
+</p>   -->
 
-💻 **Skilled in**  
-- MERN Stack (MongoDB, Express.js, React.js, Node.js, React.js)  
-- Next.js Full Stack Development  
-- Java Full Stack Development  
-- PHP & WordPress Development  
+<h1 align="center">Hi👋, I'm Akanshu Dutt</h1> 
+<h3 align="center">A passionate MERN  Full Stack developer from India</h3>  
 
-🎓 **Education**  
-- Master's in Computer Applications (MCA)  
+<img alt="Coding" align="right" width="380" height="220" src="https://raw.githubusercontent.com/SonuKumarPaswan/SonuKumarPaswan/main/Coder.gif" />
 
-🌱 **Currently Working On**  
-- Scalable Web Applications  
-- Next.js SSR & API Routes  
-- API Integration, Authentication & Token Handling (JWT, OAuth)  
-- Improving System Design & Architecture Skills  
+ <p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=sonukumarpaswan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+</p>  
 
-📫 **Reach Me On**  
-- [LinkedIn](#)  
-- [GitHub](#)  
+ 👨‍💻 About Me
 
-🚀 **Goal**  
-To build impactful, high-performance software solutions that solve real-world problems and create value.  
+I am a **Full Stack Developer** with hands-on experience in building and deploying **production-ready web applications** using **MERN Stack and TypeScript**.
+I work across the complete development lifecycle — from designing **modern, responsive user interfaces** to building **secure and scalable backend systems**.
+I also have practical experience in **server-side deployment, domain management, and cloud hosting**, ensuring applications are reliable and live for real users.
+I have worked with platforms like **Hostinger, GoDaddy, Vercel, and Render**, and I am comfortable managing databases such as **MongoDB and MySQL**.
+I enjoy solving real-world problems and delivering **performance-driven, SEO-friendly, and business-focused solutions**.
+
+
+## 🏢 Experience
+
+### 💼 Web Developer – Dream Sky Airways
+**Education & Aviation Domain | 1year 2 Months Experience**
+
+* Developed and maintained **live production websites**
+* Built **responsive and SEO-optimized UI**
+* Integrated **backend APIs and databases**
+* Managed **deployment, domain setup, and hosting**
+* Improved application **performance, scalability, and security**
+* Collaborated with stakeholders for business requirements
+
+### 🔑 Live Projects
+
+* 🌐 **Vista Global Academy** – Educational Platform
+* 🌐 **Air Aviation Institute** – Aviation Training Website
+* 🌐 **Skills Zone Academy** – Learning Management System
+
+### 🌐 Skills Zone Academy – Learning Management System (LMS)
+
+**Tech Stack:** Next.js, Node.js, Express.js, MongoDB
+
+A full-stack Learning Management System (LMS) designed to manage and deliver online educational content efficiently for students and administrators.
+
+#### 🔹 Key Features
+
+* 👨‍🎓 Student registration and authentication (JWT-based login system)
+* 📚 Course management (create, update, delete courses)
+* 🎥 Video/content-based learning modules
+* 📝 Assignment and progress tracking system
+* 🔐 Role-based access (Admin / Student)
+
+#### 🔹 Responsibilities
+
+* Developed **responsive frontend UI** using Next.js and Tailwind CSS
+* Built **RESTful APIs** using Node.js and Express.js
+* Designed and managed **MongoDB database schemas**
+* Implemented **authentication & authorization system (JWT)**
+* Integrated frontend with backend for seamless data flow
+* Deployed application and managed hosting/server
+
+
+
+## 🚀 Projects
+
+### ⭐ Featured Projects
+
+### 🔹 MeetSync – Real-Time Video Conferencing Platform (Zoom-like)
+
+**Tech Stack:** Next.js, WebRTC, Socket.io, Node.js
+
+* Built real-time video/audio communication system
+* Implemented meeting rooms, chat, and participant controls
+* Optimized performance for low latency
+
+
+### 🔹 Cognify AI – AI Chat Application (ChatGPT-like)
+
+**Tech Stack:** React.js, Node.js, OpenAI API
+
+* Developed AI-based chat interface
+* Integrated intelligent response system
+* Designed smooth and modern UI
+
+
+### 🔹 CodeForge – Code Hosting Platform (GitHub-like)
+
+**Tech Stack:** MERN Stack
+
+* Built platform for managing code repositories
+* Implemented authentication and basic version control
+* Designed scalable backend APIs
+
+
+## 🧰 Tech Stack
+
+### 💻 Frontend
+Next.js • React.js • TypeScript • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS
+### ⚙️ Backend
+Node.js • Express.js • Java • Spring Boot • REST APIs 
+### 🗄️ Database
+MongoDB • MySQL • JOI - validation
+### ☁️ Deployment & Hosting
+Vercel • Hostinger • GoDaddy • Render 
+### 🛠️ Tools & Practices
+Git & GitHub • VS Code • Postman • API Development • Docker  • CI/CD Basics • Kubernate
+
+
+## 📫 Contact
+
+* 🌐 Portfolio: https://sonupaswan.vercel.app
+* 📧 Email: [duttakanshu@gmail.com](mailto:duttakanshu@gmail.com)
+* 💻 GitHub: https://github.com/AkanshuDutt
+* 🔗 LinkedIn: https://www.linkedin.com/in/akanshu-dutt-481332196/
+
+
+
+<div align="start">
+  
+## 📚 Technologies I’ve Worked With
+
+<table align="center">
+  <tr>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>Java</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="55" height="55" /><br>JavaScript</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="55" height="55" /><br>TypeScript</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>SQL</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="55" height="55" /><br>HTML</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="55" height="55" /><br>CSS</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" /><br>C++</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=c" width="55" height="55" /><br>C</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" /><br>MongoDB</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>MySQL</td>
+</tr>
+<tr>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" /><br>Node.js</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" /><br>Next.js</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="55" height="55" /><br>Express.js</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="55" height="55" /><br>React.js</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redux" width="55" height="55" /><br>Redux</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" /><br>MongoDB</td>
+   <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>Python</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/EJS-yellow?style=for-the-badge&logo=ejs&logoColor=black" height="40" /><br>EJS</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="40" /><br>JWT</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Password-darkblue?style=for-the-badge&logo=keepassxc&logoColor=white" height="40" /><br>Password</td>
+</tr>
+<tr>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>JDBC</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Servlets-orange?style=for-the-badge" height="40" /><br>Servlets</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/JSP-blue?style=for-the-badge" height="40" /><br>JSP</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/JSTL-green?style=for-the-badge" height="40" /><br>JSTL</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/MVC-Architecture-red?style=for-the-badge" height="40" /><br>MVC</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Session-Cookies-brown?style=for-the-badge" height="40" /><br>Sessions</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Filters-Listeners-purple?style=for-the-badge" height="40" /><br>Filters</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=spring" width="55" height="55" /><br>Spring Core</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=white" height="40" /><br>Spring Boot</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Hibernate-blueviolet?style=for-the-badge&logo=hibernate&logoColor=white" height="40" /><br>Hibernate</td>
+ </tr>
+ <tr>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" /><br>Bootstrap</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" /><br>Tailwind CSS</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/AntDesign-1890FF?style=for-the-badge&logo=antdesign&logoColor=white" height="40" /><br>Ant Design</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" /><br>Docker</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="40" /><br>Open AI</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/MaterialUI-0081CB?style=for-the-badge&logo=mui&logoColor=white" height="40" /><br>Material UI</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/ReactIcons-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="40" /><br>React Icons</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/ReactToastify-FF6B6B?style=for-the-badge&logo=react&logoColor=white" height="40" /><br>Toastify</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postman" width="55" height="55" /><br>Postman</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Hopscotch-FE7A16?style=for-the-badge&logoColor=white" height="40" /><br>Hopscotch</td>
+</tr>
+<tr>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br>VS Code</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=eclipse" width="55" height="55" /><br>Eclipse</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=idea" width="55" height="55" /><br>IntelliJ IDEA</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br>Git</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br>GitHub</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bitbucket" width="55" height="55" /><br>Bitbucket</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="40" /><br>Swagger</td>
+  <td align="center" width="90"><img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" height="40" /><br>Maven</td>
+</tr>
+
+</table>
+
+</div>
+
+
+<div align="start">
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkanshuDutt&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkanshuDutt&show_icons=true&layout=compact&theme=tokyonight" alt="langs" height="160"/>
+</p>
+
+<p align="start">
+  <img src="https://streak-stats.demolab.com?user=AkanshuDutt&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="160"/>
+</p>
+
+</div> 
 
 ---
 
-## 💻 Tech Stack ⚡  
+## 🧩 LeetCode Stats
 
-### Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-
-### Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-
-### CMS & Frameworks  
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-
-### Database  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-
-### API & Auth  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) 
-![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=auth0&logoColor=white)  
-
-### Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![LeetCode Stats](https://leetcard.jacoblin.cool/AkanshuDutt?theme=dark&font=baloo&ext=contest)
 
 ---
+
+## 🧩 LeetCode Profile
+
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-AkanshuDutt-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/AkanshuDutt/)
+
+---
+
+## 🏆 Achievements
+- Solved 300+ DSA problems on LeetCode & GeeksforGeeks
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="start">
+  <img src="https://github-profile-trophy.vercel.app/?username=AkanshuDutt&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 💻 GitHub: https://github.com/AkanshuDutt  
+- 🧠 LeetCode: https://leetcode.com/u/AkanshuDutt/  
+- 💼 LinkedIn: https://www.linkedin.com/in/akanshu-dutt-481332196/
+
+---
+
+⭐ *Thanks for visiting my profile. Let’s build something impactful together.*
