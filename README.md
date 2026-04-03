@@ -22,44 +22,133 @@ I enjoy solving real-world problems and delivering **performance-driven, SEO-fri
 
 ## 🏢 Experience
 
-### 💼 Web Developer – Dream Sky Airways
-**Education & Aviation Domain | 1year 2 Months Experience**
+### 💼 Full Stack Developer – Dream Sky Airways  
+📅 Oct 2024 – Present  
 
-* Developed and maintained **live production websites**
-* Built **responsive and SEO-optimized UI**
-* Integrated **backend APIs and databases**
-* Managed **deployment, domain setup, and hosting**
-* Improved application **performance, scalability, and security**
-* Collaborated with stakeholders for business requirements
+- Developed and maintained **live production travel platform**
+- Built scalable **Admin Panel** with:
+  - Contact enquiry management (read/unread system)
+  - Career applications with file uploads (Cloudinary)
+  - Real-time auto-refresh dashboard
+  - Excel export functionality
+- Designed **responsive & SEO-optimized UI** using Next.js & Tailwind CSS
+- Built secure **REST APIs** using Node.js & Express.js
+- Managed **deployment, domain setup, VPS (Hostinger), Nginx & PM2**
+- Improved application **performance, scalability & security**
 
-### 🔑 Live Projects
 
-* 🌐 **Vista Global Academy** – Educational Platform
-* 🌐 **Air Aviation Institute** – Aviation Training Website
-* 🌐 **Skills Zone Academy** – Learning Management System
+### 💼 Frontend Developer – Kaira IT Solutions  
+📅 Feb 2025 – july 2025  
 
-### 🌐 Skills Zone Academy – Learning Management System (LMS)
+- Developed modern and responsive UI using **React.js & Tailwind CSS**
+- Converted designs into functional web applications
+- Integrated APIs and improved **UI/UX performance**
+- Worked on multiple client projects across domains
 
-**Tech Stack:** Next.js, Node.js, Express.js, MongoDB
 
-A full-stack Learning Management System (LMS) designed to manage and deliver online educational content efficiently for students and administrators.
+## 🚀 Projects
 
-#### 🔹 Key Features
+### ✈️ Dream Sky Airways (Travel Platform)  
+🔗 https://dreamskyairways.in  
 
-* 👨‍🎓 Student registration and authentication (JWT-based login system)
-* 📚 Course management (create, update, delete courses)
-* 🎥 Video/content-based learning modules
-* 📝 Assignment and progress tracking system
-* 🔐 Role-based access (Admin / Student)
+- Full-stack travel booking platform with admin dashboard  
+- Features:
+  - Package listing & dynamic pages
+  - Contact & career forms with file upload
+  - Admin panel with real-time updates
+  - Excel export system  
+- Tech Stack: **Next.js, Node.js, Express.js, MongoDB, Cloudinary**
 
-#### 🔹 Responsibilities
 
-* Developed **responsive frontend UI** using Next.js and Tailwind CSS
-* Built **RESTful APIs** using Node.js and Express.js
-* Designed and managed **MongoDB database schemas**
-* Implemented **authentication & authorization system (JWT)**
-* Integrated frontend with backend for seamless data flow
-* Deployed application and managed hosting/server
+
+### 🎓 Skills Zone Academy (LMS Platform)
+
+**Tech Stack:** Next.js, Node.js, Express.js, MongoDB  
+
+- Full-stack Learning Management System (LMS)
+- Features:
+  - Student authentication (JWT-based login)
+  - Course management system
+  - Video-based learning modules
+  - Assignment & progress tracking
+  - Role-based access (Admin / Student)
+- Responsibilities:
+  - Built frontend using **Next.js & Tailwind CSS**
+  - Developed **REST APIs**
+  - Designed **MongoDB schemas**
+  - Implemented **authentication & authorization (JWT)**
+  - Deployment & server handling
+
+
+
+### 🔮 NavamBhav (Astrology Platform)  
+📅 Apr 2025 – Jul 2025  
+🔗 https://navambhaw.com/  
+
+- Full-stack astrology consultation platform  
+- Features:
+  - Kundli & astrology services listing
+  - User enquiry & booking system
+  - Secure backend APIs
+  - Real-time communication features  
+- Tech Stack: **React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Socket.IO, WebRTC**
+
+
+### 💍 Kaira Jewellers (Catalogue Website)  
+📅 March 2025  
+
+- Jewellery catalog website with modern UI  
+- Features:
+  - Category-based product filtering
+  - Clean & responsive design
+  - Optimized performance  
+- Tech Stack: **React.js, Tailwind CSS, JavaScript, SCSS**
+
+
+
+### 🏢 Kaira IT Solutions (Company Website)  
+📅 Feb 2025  
+
+- Developed official company website  
+- Features:
+  - Fully responsive UI
+  - Smooth navigation & modern design
+  - Optimized performance  
+- Tech Stack: **React.js, Tailwind CSS**
+
+
+### 🌐 Vista Global Academy (Education Platform)
+
+- Built scalable education platform  
+- Responsive UI & API integrations  
+- Tech Stack: **React.js, Node.js**
+
+
+
+### ✈️ Air Aviation Institute (Training Website)
+
+- Aviation training institute website  
+- Clean UI with structured content delivery  
+- Tech Stack: **React.js, Tailwind CSS**
+
+
+
+## 🛠️ Tech Stack
+
+**Frontend:**  
+React.js, Next.js, Tailwind CSS, Framer Motion  
+
+**Backend:**  
+Node.js, Express.js, REST APIs  
+
+**Database:**  
+MongoDB, MySQL, SQL  
+
+**Real-time & Advanced:**  
+WebSocket, WebRTC, Socket.IO  
+
+**Tools & Deployment:**  
+Git, GitHub, Postman, Vercel, Hostinger VPS, Nginx, PM2, Cloudinary  
 
 
 
@@ -201,24 +290,22 @@ Git & GitHub • VS Code • Postman • API Development • Docker  • CI/CD B
 
 </div> 
 
----
 
 ## 🧩 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AkanshuDutt?theme=dark&font=baloo&ext=contest)
 
----
+
 
 ## 🧩 LeetCode Profile
 
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-AkanshuDutt-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/AkanshuDutt/)
 
----
 
 ## 🏆 Achievements
-- Solved 300+ DSA problems on LeetCode & GeeksforGeeks
+- Solved 250+ DSA problems on LeetCode & GeeksforGeeks
 
----
+
 
 ## 🏆 GitHub Trophies
 
@@ -226,14 +313,5 @@ Git & GitHub • VS Code • Postman • API Development • Docker  • CI/CD B
   <img src="https://github-profile-trophy.vercel.app/?username=AkanshuDutt&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15"/>
 </p>
 
----
-
-## 🌐 Connect With Me
-
-- 💻 GitHub: https://github.com/AkanshuDutt  
-- 🧠 LeetCode: https://leetcode.com/u/AkanshuDutt/  
-- 💼 LinkedIn: https://www.linkedin.com/in/akanshu-dutt-481332196/
-
----
 
 ⭐ *Thanks for visiting my profile. Let’s build something impactful together.*
