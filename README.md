@@ -1,6 +1,6 @@
-<!-- <p align="center">
-  <img src="https://github.com/SonuKumarPaswan/SonuKumarPaswan/blob/main/poster.jpg?raw=true" alt="DSA Banner" width="110%" height="240">
-</p>   -->
+ <p align="center">
+  <img src="https://github.com/AkanshuDutt/AkanshuDutt/blob/main/banner.jfif?raw=true" alt="DSA Banner" width="110%" height="240">
+</p>   
 
 <h1 align="center">Hi👋, I'm Akanshu Dutt</h1> 
 <h3 align="center">A passionate MERN  Full Stack developer from India</h3>  
@@ -8,7 +8,7 @@
 <img alt="Coding" align="right" width="380" height="220" src="https://raw.githubusercontent.com/SonuKumarPaswan/SonuKumarPaswan/main/Coder.gif" />
 
  <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sonukumarpaswan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=AkanshuDutt&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>  
 
  👨‍💻 About Me
