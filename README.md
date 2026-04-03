@@ -23,7 +23,7 @@ I enjoy solving real-world problems and delivering **performance-driven, SEO-fri
 ## 🏢 Experience
 
 ### 💼 Full Stack Developer – Dream Sky Airways  
-📅 Oct 2024 – Present  
+📅 Aug 2025 – Present  
 
 - Developed and maintained **live production travel platform**
 - Built scalable **Admin Panel** with:
@@ -49,7 +49,7 @@ I enjoy solving real-world problems and delivering **performance-driven, SEO-fri
 ## 🚀 Projects
 
 ### ✈️ Dream Sky Airways (Travel Platform)  
-🔗 https://dreamskyairways.in  
+🔗 https://dreamskyairways.com
 
 - Full-stack travel booking platform with admin dashboard  
 - Features:
@@ -62,6 +62,7 @@ I enjoy solving real-world problems and delivering **performance-driven, SEO-fri
 
 
 ### 🎓 Skills Zone Academy (LMS Platform)
+🔗 https://skillszoneacademy.com
 
 **Tech Stack:** Next.js, Node.js, Express.js, MongoDB  
 
@@ -118,6 +119,7 @@ I enjoy solving real-world problems and delivering **performance-driven, SEO-fri
 
 
 ### 🌐 Vista Global Academy (Education Platform)
+🔗 https://vistaglobalacademy.com  
 
 - Built scalable education platform  
 - Responsive UI & API integrations  
@@ -126,7 +128,7 @@ I enjoy solving real-world problems and delivering **performance-driven, SEO-fri
 
 
 ### ✈️ Air Aviation Institute (Training Website)
-
+🔗 https://airaviationinstitute.in  
 - Aviation training institute website  
 - Clean UI with structured content delivery  
 - Tech Stack: **React.js, Tailwind CSS**
