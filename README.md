@@ -201,7 +201,7 @@ Git & GitHub • VS Code • Postman • API Development • Docker  • CI/CD B
 
 ## 📫 Contact
 
-* 🌐 Portfolio: https://sonupaswan.vercel.app
+* 🌐 Portfolio:  NA
 * 📧 Email: [duttakanshu@gmail.com](mailto:duttakanshu@gmail.com)
 * 💻 GitHub: https://github.com/AkanshuDutt
 * 🔗 LinkedIn: https://www.linkedin.com/in/akanshu-dutt-481332196/
