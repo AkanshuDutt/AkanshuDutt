@@ -1,9 +1,9 @@
- <p align="center">
+<p align="center">
   <img src="https://github.com/AkanshuDutt/AkanshuDutt/blob/main/banner.jfif?raw=true" alt="DSA Banner" width="110%" height="240">
-</p>   
+</p>    
 
 <h1 align="center">Hi👋, I'm Akanshu Dutt</h1> 
-<h3 align="center">A passionate MERN  Full Stack developer from India</h3>  
+<h3 align="center">A passionate MERN Full Stack developer from India</h3>  
 
 <img alt="Coding" align="right" width="380" height="220" src="https://raw.githubusercontent.com/SonuKumarPaswan/SonuKumarPaswan/main/Coder.gif" />
 
@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=AkanshuDutt&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>  
 
- 👨‍💻 About Me
+👨‍💻 About Me
 
 I am a **Full Stack Developer** with hands-on experience in building and deploying **production-ready web applications** using **MERN Stack and TypeScript**.
 I work across the complete development lifecycle — from designing **modern, responsive user interfaces** to building **secure and scalable backend systems**.
@@ -22,8 +22,20 @@ I enjoy solving real-world problems and delivering **performance-driven, SEO-fri
 
 ## 🏢 Experience
 
+### 💼 MERN Stack Developer – TrippTrupp
+📅 May 2026 – Present  
+
+- Working as a core Full Stack Developer building and scaling the enterprise **OTA (Online Travel Agency) Platform** – [TrippTrupp.com](https://tripptrupp.com).
+- Integrated **TBO (Travel Boutique Online) APIs** for real-time Flight searches, Hotel inventories, dynamic fare rules, and live booking flows.
+- Integrated **Cheapfix API** for multi-GDS flight rate comparison, ticket issuance, and route management.
+- Implemented **Rayna Tours** and **GlobalTix APIs** for global attractions, sightseeing tickets, and dynamic activity slot bookings.
+- Integrated **Visa 2 Fly API** for seamless end-to-end electronic visa processing and document submission workflows.
+- Architected dual payment gateway systems by integrating **ICICI Bank Payment Gateway** and **Razorpay** with automated webhook reconciliation, signature validation, and refund logic.
+- Built scalable backend microservices, optimized REST API payloads, and handled high-concurrency booking requests.
+
+
 ### 💼 Full Stack Developer – Dream Sky Airways  
-📅 Aug 2025 – Present  
+📅 Aug 2025 – May 2026  
 
 - Developed and maintained **live production travel platform**
 - Built scalable **Admin Panel** with:
@@ -38,7 +50,7 @@ I enjoy solving real-world problems and delivering **performance-driven, SEO-fri
 
 
 ### 💼 Frontend Developer – Kaira IT Solutions  
-📅 Feb 2025 – july 2025  
+📅 Feb 2025 – Jul 2025  
 
 - Developed modern and responsive UI using **React.js & Tailwind CSS**
 - Converted designs into functional web applications
@@ -47,6 +59,19 @@ I enjoy solving real-world problems and delivering **performance-driven, SEO-fri
 
 
 ## 🚀 Projects
+
+### ✈️ TrippTrupp – Comprehensive B2C & B2B OTA Travel Platform
+🔗 https://tripptrupp.com
+
+- Enterprise-grade Online Travel Agency (OTA) ecosystem offering integrated flight, hotel, tour, visa, and activity booking solutions.
+- **Key Modules & Implementations:**
+  - **Flight Booking Engine:** Integrated **TBO Flight API** and **Cheapfix API** for multi-city search, live seat layouts, baggage rules, and ticket generation.
+  - **Hotel Booking Engine:** Integrated **TBO Hotel API** with real-time room availability, meal plans, voucher confirmations, and cancellation policies.
+  - **Attractions & Activities:** Integrated **Rayna Tours** and **GlobalTix APIs** for worldwide sightseeing booking and instant e-ticket generation.
+  - **Visa Processing Service:** Automated visa application processing via **Visa 2 Fly API**.
+  - **Payment Integration:** Dual payment architecture using **ICICI Payment Gateway** and **Razorpay** with instant verification, webhook listeners, and encrypted transaction logging.
+- Tech Stack: **MERN Stack (MongoDB, Express.js, React.js, Node.js), TypeScript, Next.js, Redux Toolkit, REST APIs, ICICI Gateway, Razorpay**
+
 
 ### ✈️ Dream Sky Airways (Travel Platform)  
 🔗 https://dreamskyairways.com
@@ -58,7 +83,6 @@ I enjoy solving real-world problems and delivering **performance-driven, SEO-fri
   - Admin panel with real-time updates
   - Excel export system  
 - Tech Stack: **Next.js, Node.js, Express.js, MongoDB, Cloudinary**
-
 
 
 ### 🎓 Skills Zone Academy (LMS Platform)
@@ -79,7 +103,6 @@ I enjoy solving real-world problems and delivering **performance-driven, SEO-fri
   - Designed **MongoDB schemas**
   - Implemented **authentication & authorization (JWT)**
   - Deployment & server handling
-
 
 
 ### 🔮 NavamBhav (Astrology Platform)  
@@ -106,7 +129,6 @@ I enjoy solving real-world problems and delivering **performance-driven, SEO-fri
 - Tech Stack: **React.js, Tailwind CSS, JavaScript, SCSS**
 
 
-
 ### 🏢 Kaira IT Solutions (Company Website)  
 📅 Feb 2025  
 
@@ -126,7 +148,6 @@ I enjoy solving real-world problems and delivering **performance-driven, SEO-fri
 - Tech Stack: **React.js, Node.js**
 
 
-
 ### ✈️ Air Aviation Institute (Training Website)
 🔗 https://airaviationinstitute.in  
 - Aviation training institute website  
@@ -134,24 +155,19 @@ I enjoy solving real-world problems and delivering **performance-driven, SEO-fri
 - Tech Stack: **React.js, Tailwind CSS**
 
 
-
 ## 🛠️ Tech Stack
 
-**Frontend:**  
-React.js, Next.js, Tailwind CSS, Framer Motion  
+**Frontend:** React.js, Next.js, Tailwind CSS, Framer Motion  
 
-**Backend:**  
-Node.js, Express.js, REST APIs  
+**Backend:** Node.js, Express.js, REST APIs  
 
-**Database:**  
-MongoDB, MySQL, SQL  
+**Database:** MongoDB, MySQL, SQL  
 
-**Real-time & Advanced:**  
-WebSocket, WebRTC, Socket.IO  
+**Travel & Payment APIs:** TBO API, Cheapfix API, Rayna Tours API, GlobalTix API, Visa 2 Fly, ICICI Payment Gateway, Razorpay  
 
-**Tools & Deployment:**  
-Git, GitHub, Postman, Vercel, Hostinger VPS, Nginx, PM2, Cloudinary  
+**Real-time & Advanced:** WebSocket, WebRTC, Socket.IO  
 
+**Tools & Deployment:** Git, GitHub, Postman, Vercel, Hostinger VPS, Nginx, PM2, Cloudinary  
 
 
 ## 🚀 Projects
@@ -196,7 +212,7 @@ MongoDB • MySQL • JOI - validation
 ### ☁️ Deployment & Hosting
 Vercel • Hostinger • GoDaddy • Render 
 ### 🛠️ Tools & Practices
-Git & GitHub • VS Code • Postman • API Development • Docker  • CI/CD Basics • Kubernate
+Git & GitHub • VS Code • Postman • API Development • Docker • CI/CD Basics • Kubernate
 
 
 ## 📫 Contact
@@ -205,7 +221,6 @@ Git & GitHub • VS Code • Postman • API Development • Docker  • CI/CD B
 * 📧 Email: [duttakanshu@gmail.com](mailto:duttakanshu@gmail.com)
 * 💻 GitHub: https://github.com/AkanshuDutt
 * 🔗 LinkedIn: https://www.linkedin.com/in/akanshu-dutt-481332196/
-
 
 
 <div align="start">
