@@ -312,7 +312,7 @@ Git & GitHub • VS Code • Postman • WebSockets • API Architecture • Doc
 
 
 ## 🏆 Achievements
-- Solved 320+ DSA problems on LeetCode & GeeksforGeeks
+- Solved 300+ DSA problems on LeetCode & GeeksforGeeks
 
 
 
