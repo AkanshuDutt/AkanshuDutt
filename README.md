@@ -58,20 +58,41 @@ I enjoy solving real-world problems and delivering **performance-driven, SEO-fri
 - Worked on multiple client projects across domains
 
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### ✈️ TrippTrupp – Comprehensive B2C & B2B OTA Travel Platform
+### ✈️ TrippTrupp – Enterprise OTA Travel Platform
 🔗 https://tripptrupp.com
 
-- Enterprise-grade Online Travel Agency (OTA) ecosystem offering integrated flight, hotel, tour, visa, and activity booking solutions.
-- **Key Modules & Implementations:**
-  - **Flight Booking Engine:** Integrated **TBO Flight API** and **Cheapfix API** for multi-city search, live seat layouts, baggage rules, and ticket generation.
-  - **Hotel Booking Engine:** Integrated **TBO Hotel API** with real-time room availability, meal plans, voucher confirmations, and cancellation policies.
-  - **Attractions & Activities:** Integrated **Rayna Tours** and **GlobalTix APIs** for worldwide sightseeing booking and instant e-ticket generation.
-  - **Visa Processing Service:** Automated visa application processing via **Visa 2 Fly API**.
-  - **Payment Integration:** Dual payment architecture using **ICICI Payment Gateway** and **Razorpay** with instant verification, webhook listeners, and encrypted transaction logging.
-- Tech Stack: **MERN Stack (MongoDB, Express.js, React.js, Node.js), TypeScript, Next.js, Redux Toolkit, REST APIs, ICICI Gateway, Razorpay**
+**Tech Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js), TypeScript, Next.js, Redux Toolkit, REST APIs
 
+- Full-scale Online Travel Agency ecosystem offering real-time flight, hotel, tour, visa, and attraction bookings.
+- **Key Highlights:**
+  - Integrated **TBO APIs** for dynamic flight search & hotel booking engines.
+  - Integrated **Cheapfix API** for flight fare discovery and ticketing.
+  - Implemented **Rayna Tours & GlobalTix APIs** for global activity reservations.
+  - Integrated **Visa 2 Fly API** for end-to-end visa applications.
+  - Dual payment architecture using **ICICI Bank Payment Gateway** and **Razorpay** with secure webhook verification.
+
+
+### 📝 Aheadmint – Multi-Tier Community Tech Publication & Creator CMS Platform
+🔗 https://aheadmint.com
+
+**Tech Stack:** Next.js (App Router), TypeScript, Node.js, Express.js (TS), MongoDB, WebSockets, Cloudinary, Vercel, AWS
+
+- Full-featured, scalable blogging and creator portal engineered for tech learning, AI/ML deep dives, and community publishing. Built with enterprise-grade role-based security, real-time networking, and customized content management.
+- **Key Architecture & Features:**
+  - **Hierarchical Role-Based Access Control (RBAC):** Architected distinct user tiers — **Super Admin, Admin, Author, and End User** with strict permission boundaries and token verification.
+  - **Centralized Super Admin Command Center:** Full control to inspect, create, edit, suspend, or hold any User, Author, or Admin account across the system.
+  - **Author Onboarding & Verification Pipeline:** Prospective writers submit structured applications; Super Admin reviews credentials, drafts, and compliance before granting authoring permissions.
+  - **Dedicated Author & Admin CMS Studio:** Customized content creation workspace equipped with rich text editing, draft saving, tagging, category mapping, and media asset management.
+  - **Cloud Media Pipeline:** Automated image uploading, cloud optimization, responsive transformations, and CDN distribution via **Cloudinary**.
+  - **Real-Time WebSocket Engine:** Instant notifications for new publications, live user comments, interactions, and profile follow/unfollow events using **WebSockets**.
+  - **Interactive Community Experience:** Reader engagement layer supporting verified user reviews, threaded discussions, social following, and personalized content feeds.
+  - **Enterprise Cloud Deployment:** High-speed server-rendered frontend hosted on **Vercel** with backend microservices and databases orchestrated on **AWS** and **MongoDB Atlas**.
+  - *Status:* Active development with advanced developer utility tools and AI-driven services currently in the pipeline.
+
+
+## 🚀 Other Production & Client Projects
 
 ### ✈️ Dream Sky Airways (Travel Platform)  
 🔗 https://dreamskyairways.com
@@ -120,6 +141,7 @@ I enjoy solving real-world problems and delivering **performance-driven, SEO-fri
 
 ### 💍 Kaira Jewellers (Catalogue Website)  
 📅 March 2025  
+🔗 https://kskairajewellers.com  
 
 - Jewellery catalog website with modern UI  
 - Features:
@@ -131,6 +153,7 @@ I enjoy solving real-world problems and delivering **performance-driven, SEO-fri
 
 ### 🏢 Kaira IT Solutions (Company Website)  
 📅 Feb 2025  
+🔗 https://kairaitsolution.com  
 
 - Developed official company website  
 - Features:
@@ -157,67 +180,36 @@ I enjoy solving real-world problems and delivering **performance-driven, SEO-fri
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React.js, Next.js, Tailwind CSS, Framer Motion  
+**Frontend:** Next.js, React.js, TypeScript, Tailwind CSS, Framer Motion  
 
-**Backend:** Node.js, Express.js, REST APIs  
+**Backend:** Node.js, Express.js, TypeScript, REST APIs  
 
 **Database:** MongoDB, MySQL, SQL  
 
-**Travel & Payment APIs:** TBO API, Cheapfix API, Rayna Tours API, GlobalTix API, Visa 2 Fly, ICICI Payment Gateway, Razorpay  
+**Cloud & Media:** Cloudinary, AWS, Vercel, Hostinger VPS  
 
-**Real-time & Advanced:** WebSocket, WebRTC, Socket.IO  
+**Real-time & APIs:** WebSockets, Socket.IO, WebRTC, TBO API, Cheapfix API, Rayna Tours API, GlobalTix API, Visa 2 Fly, ICICI Payment Gateway, Razorpay  
 
-**Tools & Deployment:** Git, GitHub, Postman, Vercel, Hostinger VPS, Nginx, PM2, Cloudinary  
-
-
-## 🚀 Projects
-
-### ⭐ Featured Projects
-
-### 🔹 MeetSync – Real-Time Video Conferencing Platform (Zoom-like)
-
-**Tech Stack:** Next.js, WebRTC, Socket.io, Node.js
-
-* Built real-time video/audio communication system
-* Implemented meeting rooms, chat, and participant controls
-* Optimized performance for low latency
+**Tools & Deployment:** Git, GitHub, Postman, Nginx, PM2  
 
 
-### 🔹 Cognify AI – AI Chat Application (ChatGPT-like)
-
-**Tech Stack:** React.js, Node.js, OpenAI API
-
-* Developed AI-based chat interface
-* Integrated intelligent response system
-* Designed smooth and modern UI
-
-
-### 🔹 CodeForge – Code Hosting Platform (GitHub-like)
-
-**Tech Stack:** MERN Stack
-
-* Built platform for managing code repositories
-* Implemented authentication and basic version control
-* Designed scalable backend APIs
-
-
-## 🧰 Tech Stack
+## 🧰 Skills & Tools
 
 ### 💻 Frontend
 Next.js • React.js • TypeScript • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS
 ### ⚙️ Backend
-Node.js • Express.js • Java • Spring Boot • REST APIs 
+Node.js • Express.js • TypeScript • Java • Spring Boot • REST APIs 
 ### 🗄️ Database
 MongoDB • MySQL • JOI - validation
 ### ☁️ Deployment & Hosting
-Vercel • Hostinger • GoDaddy • Render 
+Vercel • AWS • Hostinger • GoDaddy • Render 
 ### 🛠️ Tools & Practices
-Git & GitHub • VS Code • Postman • API Development • Docker • CI/CD Basics • Kubernate
+Git & GitHub • VS Code • Postman • WebSockets • API Architecture • Docker • CI/CD Basics
 
 
 ## 📫 Contact
 
-* 🌐 Portfolio:  NA
+* 🌐 Portfolio: NA
 * 📧 Email: [duttakanshu@gmail.com](mailto:duttakanshu@gmail.com)
 * 💻 GitHub: https://github.com/AkanshuDutt
 * 🔗 LinkedIn: https://www.linkedin.com/in/akanshu-dutt-481332196/
