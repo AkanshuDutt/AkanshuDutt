@@ -1,75 +1,52 @@
 <div align="center">
 
-  <!-- 🏆 LUXURY ANIMATED WAVING HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,24&height=260&section=header&text=Akanshu%20Dutt&fontSize=64&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=✨%20A%20Passionate%20MERN%20Full%20Stack%20Developer%20%26%20System%20Architect%20from%20India%20✨&descFontSize=19&descAlignY=58" width="100%" alt="Header Banner" />
+  <!-- Animated Waving Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,24&height=230&section=header&text=Hi%20👋,%20I'm%20Akanshu%20Dutt&fontSize=50&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=A%20Passionate%20MERN%20Full%20Stack%20Developer%20from%20India&descFontSize=19&descAlignY=60" width="100%" alt="Header Banner" />
 
-  <!-- ⚡ MULTI-LINE NEON TYPING ANIMATION -->
+  <!-- Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=850&height=55&lines=🚀+Building+Production-Ready+MERN+%26+TypeScript+Applications;✈️+Scaling+Enterprise+OTA+Platforms+%26+High-Concurrency+Microservices;💳+Integrating+GDS%2C+TBO+APIs+%26+Dual+Payment+Gateway+Pipelines;☁️+Cloud+Architecture+%7C+AWS+%7C+Hostinger+VPS+%7C+Nginx+%7C+Docker+%7C+PM2" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Production-Ready+MERN+%26+TypeScript+Applications;Scaling+Enterprise+OTA+Platforms+%26+Backend+Microservices;Integrating+GDS%2C+TBO+APIs+%26+Dual+Payment+Gateways;Server-Side+Deployment+%7C+AWS+%7C+VPS+%7C+Nginx+%7C+Docker" alt="Typing SVG" />
   </a>
 
-  <br/>
-
-  <!-- 🌐 LUXURY SOCIAL & LIVE METRICS BAR -->
+  <!-- Quick Social & Profile Views Bar -->
   <p align="center">
-    <a href="https://aheadmint.com"><img src="https://img.shields.io/badge/🌐_Portfolio-Akanshu_Dutt-8A2BE2?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/akanshu-dutt-481332196/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:duttakanshu@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/AkanshuDutt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://leetcode.com/u/AkanshuDutt/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-    <img src="https://komarev.com/ghpvc/?username=AkanshuDutt&label=PROFILE%20VIEWS&color=00b4d8&style=for-the-badge" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=AkanshuDutt&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
   </p>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834472-23e4e000-a413-11eb-8f55-94d5407c862c.gif" width="100%">
 
-<br/>
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="38"> 👨‍💻 About Me
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="42"> 👨‍💻 About Me
-
-<table border="0" width="100%" cellspacing="0" cellpadding="16">
+<table border="0" width="100%">
   <tr>
-    <td width="62%" valign="middle">
-      <p align="justify">
-        ⚡ I am a <strong>Full Stack Developer</strong> with hands-on experience in building and deploying <strong>production-ready web applications</strong> using <strong>MERN Stack and TypeScript</strong>.
-      </p>
-      <p align="justify">
-        🛠️ I work across the complete development lifecycle — from designing <strong>modern, responsive user interfaces</strong> to building <strong>secure and scalable backend systems</strong>.
-      </p>
-      <p align="justify">
-        ☁️ I also have practical experience in <strong>server-side deployment, domain management, and cloud hosting</strong>, ensuring applications are reliable and live for real users.
-      </p>
-      <p align="justify">
-        🗄️ I have worked with platforms like <strong>Hostinger, GoDaddy, Vercel, and Render</strong>, and I am comfortable managing databases such as <strong>MongoDB and MySQL</strong>.
-      </p>
-      <p align="justify">
-        🎯 I enjoy solving real-world problems and delivering <strong>performance-driven, SEO-friendly, and business-focused solutions</strong>.
-      </p>
+    <td width="64%" valign="middle">
+      <p>I am a <strong>Full Stack Developer</strong> with hands-on experience in building and deploying <strong>production-ready web applications</strong> using <strong>MERN Stack and TypeScript</strong>.</p>
+      <p>I work across the complete development lifecycle — from designing <strong>modern, responsive user interfaces</strong> to building <strong>secure and scalable backend systems</strong>.</p>
+      <p>I also have practical experience in <strong>server-side deployment, domain management, and cloud hosting</strong>, ensuring applications are reliable and live for real users.</p>
+      <p>I have worked with platforms like <strong>Hostinger, GoDaddy, Vercel, and Render</strong>, and I am comfortable managing databases such as <strong>MongoDB and MySQL</strong>.</p>
+      <p>I enjoy solving real-world problems and delivering <strong>performance-driven, SEO-friendly, and business-focused solutions</strong>.</p>
     </td>
-    <td width="38%" align="center" valign="middle">
-      <img alt="Developer Workspace Animation" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+    <td width="36%" align="center" valign="middle">
+      <img alt="Developer Animation" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
     </td>
   </tr>
 </table>
 
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834472-23e4e000-a413-11eb-8f55-94d5407c862c.gif" width="100%">
 
-<br/>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> 🏢 Experience
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> 🏢 Professional Experience
-
-<table width="100%" cellspacing="0" cellpadding="18">
+<table width="100%">
   <tr>
     <td>
       <h3>💼 MERN Stack Developer – TrippTrupp</h3>
-      <p>
-        <img src="https://img.shields.io/badge/📅_May_2026_–_Present-00C853?style=for-the-badge" alt="Timeline" />
-        <a href="https://tripptrupp.com"><img src="https://img.shields.io/badge/🌐_TrippTrupp.com-0A66C2?style=for-the-badge" alt="Website" /></a>
-        <img src="https://img.shields.io/badge/Role-Core_Full_Stack_Architect-FFA116?style=for-the-badge" alt="Role" />
-      </p>
+      <p>📅 <b>May 2026 – Present</b> &nbsp;|&nbsp; 🌐 <a href="https://tripptrupp.com"><b>TrippTrupp.com</b></a></p>
       <ul>
         <li>Working as a core Full Stack Developer building and scaling the enterprise <strong>OTA (Online Travel Agency) Platform</strong> – <a href="https://tripptrupp.com">TrippTrupp.com</a>.</li>
         <li>Integrated <strong>TBO (Travel Boutique Online) APIs</strong> for real-time Flight searches, Hotel inventories, dynamic fare rules, and live booking flows.</li>
@@ -84,10 +61,7 @@
   <tr>
     <td>
       <h3>💼 Full Stack Developer – Dream Sky Airways</h3>
-      <p>
-        <img src="https://img.shields.io/badge/📅_Aug_2025_–_May_2026-00B4D8?style=for-the-badge" alt="Timeline" />
-        <a href="https://dreamskyairways.com"><img src="https://img.shields.io/badge/🌐_DreamSkyAirways.com-7C4DFF?style=for-the-badge" alt="Website" /></a>
-      </p>
+      <p>📅 <b>Aug 2025 – May 2026</b> &nbsp;|&nbsp; 🌐 <a href="https://dreamskyairways.com"><b>DreamSkyAirways.com</b></a></p>
       <ul>
         <li>Developed and maintained <strong>live production travel platform</strong></li>
         <li>Built scalable <strong>Admin Panel</strong> with:
@@ -108,10 +82,7 @@
   <tr>
     <td>
       <h3>💼 Frontend Developer – Kaira IT Solutions</h3>
-      <p>
-        <img src="https://img.shields.io/badge/📅_Feb_2025_–_Jul_2025-FF6B6B?style=for-the-badge" alt="Timeline" />
-        <a href="https://kairaitsolution.com"><img src="https://img.shields.io/badge/🌐_KairaITSolution.com-2F8D46?style=for-the-badge" alt="Website" /></a>
-      </p>
+      <p>📅 <b>Feb 2025 – Jul 2025</b> &nbsp;|&nbsp; 🌐 <a href="https://kairaitsolution.com"><b>KairaITSolution.com</b></a></p>
       <ul>
         <li>Developed modern and responsive UI using <strong>React.js & Tailwind CSS</strong></li>
         <li>Converted designs into functional web applications</li>
@@ -122,21 +93,17 @@
   </tr>
 </table>
 
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834472-23e4e000-a413-11eb-8f55-94d5407c862c.gif" width="100%">
 
-<br/>
+## 🚀 Featured Projects
 
-## 🚀 Featured Enterprise Projects
-
-<table width="100%" cellspacing="0" cellpadding="18">
+<table width="100%">
   <tr>
     <td valign="top">
       <h3>✈️ TrippTrupp – Enterprise OTA Travel Platform</h3>
       <p>
-        <a href="https://tripptrupp.com"><img src="https://img.shields.io/badge/🔗_LIVE_PLATFORM-tripptrupp.com-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TrippTrupp" /></a>
-        <img src="https://img.shields.io/badge/Architecture-Microservices_%26_Multi--GDS-00B4D8?style=for-the-badge" alt="Architecture" />
+        🔗 <a href="https://tripptrupp.com"><b>https://tripptrupp.com</b></a> &nbsp;&nbsp;
+        <a href="https://tripptrupp.com"><img src="https://img.shields.io/badge/LIVE_PRODUCTION-00C853?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
       </p>
       <p><strong>Tech Stack:</strong> MERN Stack (MongoDB, Express.js, React.js, Node.js), TypeScript, Next.js, Redux Toolkit, REST APIs</p>
       <ul>
@@ -157,8 +124,8 @@
     <td valign="top">
       <h3>📝 Aheadmint – Multi-Tier Community Tech Publication & Creator CMS Platform</h3>
       <p>
-        <a href="https://aheadmint.com"><img src="https://img.shields.io/badge/🔗_LIVE_PLATFORM-aheadmint.com-7C4DFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Aheadmint" /></a>
-        <img src="https://img.shields.io/badge/Infrastructure-Vercel_%7C_AWS_%7C_WebSockets-FFA116?style=for-the-badge" alt="Cloud" />
+        🔗 <a href="https://aheadmint.com"><b>https://aheadmint.com</b></a> &nbsp;&nbsp;
+        <a href="https://aheadmint.com"><img src="https://img.shields.io/badge/LIVE_PRODUCTION-7C4DFF?style=flat-square&logo=amazonaws&logoColor=white" alt="Live" /></a>
       </p>
       <p><strong>Tech Stack:</strong> Next.js (App Router), TypeScript, Node.js, Express.js (TS), MongoDB, WebSockets, Cloudinary, Vercel, AWS</p>
       <ul>
@@ -181,19 +148,15 @@
   </tr>
 </table>
 
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834472-23e4e000-a413-11eb-8f55-94d5407c862c.gif" width="100%">
-
-<br/>
 
 ## 🌐 Other Production & Client Projects
 
-<table width="100%" cellspacing="0" cellpadding="14">
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>✈️ Dream Sky Airways (Travel Platform)</h3>
-      <p><a href="https://dreamskyairways.com"><img src="https://img.shields.io/badge/🔗_dreamskyairways.com-00B4D8?style=flat-square" /></a></p>
+      <p>🔗 <a href="https://dreamskyairways.com">https://dreamskyairways.com</a></p>
       <ul>
         <li>Full-stack travel booking platform with admin dashboard</li>
         <li>Features:
@@ -209,7 +172,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🎓 Skills Zone Academy (LMS Platform)</h3>
-      <p><a href="https://skillszoneacademy.com"><img src="https://img.shields.io/badge/🔗_skillszoneacademy.com-00C853?style=flat-square" /></a></p>
+      <p>🔗 <a href="https://skillszoneacademy.com">https://skillszoneacademy.com</a></p>
       <p><strong>Tech Stack:</strong> Next.js, Node.js, Express.js, MongoDB</p>
       <ul>
         <li>Full-stack Learning Management System (LMS)</li>
@@ -237,7 +200,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🔮 NavamBhav (Astrology Platform)</h3>
-      <p>📅 Apr 2025 – Jul 2025 &nbsp;|&nbsp; <a href="https://navambhaw.com/"><img src="https://img.shields.io/badge/🔗_navambhaw.com-FFA116?style=flat-square" /></a></p>
+      <p>📅 Apr 2025 – Jul 2025 &nbsp;|&nbsp; 🔗 <a href="https://navambhaw.com/">https://navambhaw.com/</a></p>
       <ul>
         <li>Full-stack astrology consultation platform</li>
         <li>Features:
@@ -253,7 +216,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>💍 Kaira Jewellers (Catalogue Website)</h3>
-      <p>📅 March 2025 &nbsp;|&nbsp; <a href="https://kskairajewellers.com"><img src="https://img.shields.io/badge/🔗_kskairajewellers.com-E91E63?style=flat-square" /></a></p>
+      <p>📅 March 2025 &nbsp;|&nbsp; 🔗 <a href="https://kskairajewellers.com">https://kskairajewellers.com</a></p>
       <ul>
         <li>Jewellery catalog website with modern UI</li>
         <li>Features:
@@ -270,7 +233,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🏢 Kaira IT Solutions (Company Website)</h3>
-      <p>📅 Feb 2025 &nbsp;|&nbsp; <a href="https://kairaitsolution.com"><img src="https://img.shields.io/badge/🔗_kairaitsolution.com-7C4DFF?style=flat-square" /></a></p>
+      <p>📅 Feb 2025 &nbsp;|&nbsp; 🔗 <a href="https://kairaitsolution.com">https://kairaitsolution.com</a></p>
       <ul>
         <li>Developed official company website</li>
         <li>Features:
@@ -285,7 +248,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Vista Global Academy (Education Platform)</h3>
-      <p><a href="https://vistaglobalacademy.com"><img src="https://img.shields.io/badge/🔗_vistaglobalacademy.com-2196F3?style=flat-square" /></a></p>
+      <p>🔗 <a href="https://vistaglobalacademy.com">https://vistaglobalacademy.com</a></p>
       <ul>
         <li>Built scalable education platform</li>
         <li>Responsive UI & API integrations</li>
@@ -293,7 +256,7 @@
       </ul>
       <hr/>
       <h3>✈️ Air Aviation Institute (Training Website)</h3>
-      <p><a href="https://airaviationinstitute.in"><img src="https://img.shields.io/badge/🔗_airaviationinstitute.in-00BCD4?style=flat-square" /></a></p>
+      <p>🔗 <a href="https://airaviationinstitute.in">https://airaviationinstitute.in</a></p>
       <ul>
         <li>Aviation training institute website</li>
         <li>Clean UI with structured content delivery</li>
@@ -303,15 +266,11 @@
   </tr>
 </table>
 
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834472-23e4e000-a413-11eb-8f55-94d5407c862c.gif" width="100%">
-
-<br/>
 
 ## 🛠️ Tech Stack & 🧰 Skills & Tools
 
-<table width="100%" cellspacing="0" cellpadding="16">
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🛠️ Core Tech Stack</h3>
@@ -337,27 +296,19 @@
   </tr>
 </table>
 
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834472-23e4e000-a413-11eb-8f55-94d5407c862c.gif" width="100%">
 
-<br/>
-
-## 📚 Technologies & Ecosystem I’ve Worked With
+## 📚 Technologies I’ve Worked With
 
 <div align="center">
 
-  <!-- Animated Skill Icons Grid -->
   <p align="center">
     <img src="https://skillicons.dev/icons?i=java,js,ts,mysql,html,css,cpp,c,mongodb,nodejs&perline=10" /><br/><br/>
     <img src="https://skillicons.dev/icons?i=nextjs,express,react,redux,python,spring,bootstrap,tailwind,docker,postman&perline=10" /><br/><br/>
     <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,git,github,bitbucket,maven,aws,nginx,linux&perline=10" />
   </p>
 
-  <br/>
-
-  <!-- Specialized Frameworks, Libraries & Enterprise Tools -->
-  <table align="center" cellspacing="0" cellpadding="8">
+  <table align="center">
     <tr>
       <td align="center" width="95"><img src="https://img.shields.io/badge/EJS-yellow?style=for-the-badge&logo=ejs&logoColor=black" height="30" /><br><sub><b>EJS</b></sub></td>
       <td align="center" width="95"><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="30" /><br><sub><b>JWT</b></sub></td>
@@ -384,57 +335,38 @@
 
 </div>
 
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834472-23e4e000-a413-11eb-8f55-94d5407c862c.gif" width="100%">
 
-<br/>
-
-## 📊 GitHub Analytics, Streak & Live Contribution Graphs
+## 📊 GitHub Analytics & Activity Graphs
 
 <div align="center">
 
-  <!-- Row 1: Full Profile Contribution Summary Card (Shows Total Contributions & Area Chart) -->
+  <!-- Row 1: Stats & Top Languages -->
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkanshuDutt&theme=tokyonight" width="96%" alt="Profile Summary Card" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AkanshuDutt&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkanshuDutt&show_icons=true&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="165" />
   </p>
 
-  <!-- Row 2: Daily Streak (Weekend-Safe so it never resets on Sat/Sun) + Weekly Streak -->
+  <!-- Row 2: Streak (Weekend-Safe Fix Applied) & Commit Graph -->
   <p align="center">
-    <img src="https://streak-stats.demolab.com?user=AkanshuDutt&theme=tokyonight&hide_border=false&border_radius=10&exclude_days=Sat,Sun" height="175" alt="Daily GitHub Streak" />
-    <img src="https://streak-stats.demolab.com?user=AkanshuDutt&theme=tokyonight&hide_border=false&border_radius=10&mode=weekly" height="175" alt="Weekly Uninterrupted Streak" />
+    <img src="https://streak-stats.demolab.com?user=AkanshuDutt&theme=tokyonight&hide_border=false&exclude_days=Sat,Sun" alt="GitHub Streak" height="165" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkanshuDutt&theme=tokyonight" alt="Repos Per Language" height="165" />
   </p>
 
-  <!-- Row 3: GitHub Stats (Including All Commits & Private) & Top Languages -->
+  <!-- Row 3: Full Contribution Line Graph -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AkanshuDutt&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=false&border_radius=10" height="175" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkanshuDutt&show_icons=true&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" height="175" alt="Top Languages" />
-  </p>
-
-  <!-- Row 4: Repos Per Language & Productive Commit Hours Graph -->
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkanshuDutt&theme=tokyonight" height="175" alt="Repos Per Language" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkanshuDutt&theme=tokyonight&utcOffset=5.5" height="175" alt="Productive Coding Hours" />
-  </p>
-
-  <!-- Row 5: High-Resolution Neon Contribution Activity Graph -->
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkanshuDutt&theme=tokyo-night&hide_border=false&area=true&custom_title=Akanshu's%20Real-Time%20Contribution%20Activity%20Graph" width="96%" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkanshuDutt&theme=tokyo-night&hide_border=false&area=true&custom_title=Akanshu's%20Contribution%20Activity%20Graph" width="95%" alt="Contribution Graph" />
   </p>
 
 </div>
 
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834472-23e4e000-a413-11eb-8f55-94d5407c862c.gif" width="100%">
-
-<br/>
 
 ## 🧩 LeetCode Stats & 🏆 Achievements
 
 <div align="center">
 
-  <!-- Auto-Fetched Dynamic Achievements Badges -->
+  <!-- Auto-Fetched Achievements Badges -->
   <p align="center">
     <a href="https://leetcode.com/u/AkanshuDutt/">
       <img src="https://img.shields.io/badge/LeetCode_Profile-AkanshuDutt-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
@@ -448,48 +380,30 @@
     <img src="https://img.shields.io/badge/DSA_Solved-350%2B_on_LeetCode_%26_GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="DSA Achievements" />
   </p>
 
-  <br/>
-
   <!-- Live LeetCode Card with Contest & Heatmap -->
   <p align="center">
     <a href="https://leetcode.com/u/AkanshuDutt/">
-      <img src="https://leetcard.jacoblin.cool/AkanshuDutt?theme=dark&font=baloo&ext=contest" width="75%" alt="LeetCode Stats" />
+      <img src="https://leetcard.jacoblin.cool/AkanshuDutt?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
     </a>
   </p>
 
 </div>
 
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834472-23e4e000-a413-11eb-8f55-94d5407c862c.gif" width="100%">
 
-<br/>
+## 📫 Contact
 
-## 🏆 GitHub Trophies Showcase
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkanshuDutt&theme=tokyonight&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=7" width="96%" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834472-23e4e000-a413-11eb-8f55-94d5407c862c.gif" width="100%">
-
-<br/>
-
-## 📫 Connect With Me
-
-<table align="center" width="100%" cellspacing="0" cellpadding="14">
+<table align="center" width="100%">
   <tr>
-    <td align="center">🌐 <b>Portfolio:</b><br/><a href="https://aheadmint.com"><b>aheadmint/portfolio/Akanshu</b></a></td>
-    <td align="center">📧 <b>Email:</b><br/><a href="mailto:duttakanshu@gmail.com"><b>duttakanshu@gmail.com</b></a></td>
-    <td align="center">💻 <b>GitHub:</b><br/><a href="https://github.com/AkanshuDutt"><b>github.com/AkanshuDutt</b></a></td>
-    <td align="center">🔗 <b>LinkedIn:</b><br/><a href="https://www.linkedin.com/in/akanshu-dutt-481332196/"><b>akanshu-dutt-481332196</b></a></td>
+    <td align="center">🌐 <b>Portfolio:</b> <a href="https://aheadmint.com">aheadmint/portfolio/Akanshu</a></td>
+    <td align="center">📧 <b>Email:</b> <a href="mailto:duttakanshu@gmail.com">duttakanshu@gmail.com</a></td>
+    <td align="center">💻 <b>GitHub:</b> <a href="https://github.com/AkanshuDutt">github.com/AkanshuDutt</a></td>
+    <td align="center">🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/akanshu-dutt-481332196/">akanshu-dutt-481332196</a></td>
   </tr>
 </table>
 
 <div align="center">
   <br/>
   <p>⭐ <i>Thanks for visiting my profile. Let’s build something impactful together.</i> ⭐</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,24&height=130&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,24&height=120&section=footer" width="100%" alt="Footer Banner" />
 </div>
