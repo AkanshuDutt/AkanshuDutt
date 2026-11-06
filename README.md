@@ -391,19 +391,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834472-23e4e000-a413-11eb-8f55-94d5407c862c.gif" width="100%">
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkanshuDutt&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15" width="95%" alt="GitHub Trophies" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834472-23e4e000-a413-11eb-8f55-94d5407c862c.gif" width="100%">
 
 ## 📫 Contact
 
 <table align="center" width="100%">
   <tr>
-    <td align="center">🌐 <b>Portfolio:</b> NA</td>
+    <td align="center">🌐 <b>Portfolio:</b> <a href="https://aheadmint.com">aheadmint/portfolio/Akanshu</a> </td>
     <td align="center">📧 <b>Email:</b> <a href="mailto:duttakanshu@gmail.com">duttakanshu@gmail.com</a></td>
     <td align="center">💻 <b>GitHub:</b> <a href="https://github.com/AkanshuDutt">github.com/AkanshuDutt</a></td>
     <td align="center">🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/akanshu-dutt-481332196/">akanshu-dutt-481332196</a></td>
