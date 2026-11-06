@@ -269,7 +269,15 @@ Git & GitHub • VS Code • Postman • WebSockets • API Architecture • Doc
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-AkanshuDutt-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/AkanshuDutt/)
 
 ## 🏆 Achievements
-- Solved 350+ DSA problems on LeetCode & GeeksforGeeks
+
+<p align="left">
+  <a href="https://leetcode.com/u/AkanshuDutt/">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode%20Solved&query=%24.totalSolved&url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2FAkanshuDutt&logo=leetcode&logoColor=yellow&color=FFA116" alt="LeetCode Solved Count" />
+  </a>
+  <a href="https://leetcode.com/u/AkanshuDutt/">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Global%20Ranking&query=%24.ranking&url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2FAkanshuDutt&logo=hackerearth&logoColor=white&color=00b4d8" alt="LeetCode Ranking" />
+  </a>
+</p>
 
 ## 🏆 GitHub Trophies
 
