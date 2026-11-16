@@ -377,7 +377,7 @@
     <a href="https://leetcode.com/u/AkanshuDutt/">
       <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Global%20Ranking&query=%24.ranking&url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2FAkanshuDutt&logo=hackerearth&logoColor=white&color=00b4d8" alt="LeetCode Ranking" />
     </a>
-    <img src="https://img.shields.io/badge/DSA_Solved-440%2B_on_LeetCode_%26_GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="DSA Achievements" />
+    <img src="https://img.shields.io/badge/DSA_Solved-400%2B_on_LeetCode_%26_GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="DSA Achievements" />
   </p>
 
   <!-- Live LeetCode Card with Contest & Heatmap -->
